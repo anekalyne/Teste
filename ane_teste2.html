@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title> Currículo Ane Kalyne Santos Oliveira</title>
+        <link rel="stylesheet" href="main.css">
+        <style> h3{color: brown}
+        </style>
+    </head>
+        <body> <h1>Ane Kalyne Santos Oliveira </h1> 
+            <a href="thumbnail_image1.jpg" target="blank">Foto de Perfil</a>
+            <p><img src="thumbnail_image1.jpg" width="300" height="300"alt="Ane Kalyne santos oliveira"> </p>
+    
+            <h3><p>Brasileira, 26 anos, Solteira. <br />
+                  anekalyne@hotmail.com (11) 4059-6706/ (11) 94337-6230 <br />
+                  Alameda do triunfo, 05 – Eldorado, Diadema – SP.</p></h3>
+
+            <h3>
+                Objetivo</h3>
+                <p>Desenvolvedor Magento.</p>
+
+            <h3>Formação acadêmica </h3>
+                Universidade Paulista (UNIP) – Pedagogia (2013 – 2015). 
+
+            <h3>Cursos e habilidades complementares </h3>
+               <ul>
+                 <p>
+                
+                    <li> Intercâmbio de Idioma AuPairCare – Inglês Intermediário;</li></p> 
+            <p><li>DeAnza College California – ‘’Música e movimento’’ (2018); </li></p>
+            <p><li>DeAnza College California – ‘’Arte e criatividade’’ (2018); </li></p>
+            <p><li>Conhecimento em Desenvolvimento de E-Commerce (Magento E-Commerce).</li></p></ul>
+
+<h3>Experiências profissionais </h3>
+<a href="http://www.carandavivavida.com.br/?gclid=Cj0KCQiAnY_jBRDdARIsAIEqpJ27psjyIoHLCs97N6rVhwHOfttWXoXAwwEmGF3fXVT1Z7yMp6aoaqUaArGdEALw_wcB" target="_blank">
+  Carandá Vivavida</a><br />
+      
+     Período: Setembro 2018 – Novembro 2018; Função: Recreacionista bilíngue para crianças de 3 à 5 anos de idade. 
+<a href="https://www.aupaircare.com/" target="_blank">
+  <p>Au pair Care<br /></a>
+     Período: Agosto 2017 – Agosto 2018; Função: Cuidado e planejamento de toda a rotina de duas crianças (4 e 6 anos). </p>
+    
+   </body>
+</html>
